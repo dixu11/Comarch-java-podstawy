@@ -16,5 +16,13 @@ public class WyrazeniaDemo {
         System.out.println(10 > 5 && 10 > 100); // oraz
         System.out.println(10 > 5 || 10 > 100); // lub
 
+        System.out.println(5*10);
+        System.out.println((10.0+20.0)/7.0);
+        System.out.println("10 + 20 to " + (10 +20));
+        System.out.println("30 / 7 daje " + (30.0/7.0));
+        System.out.println("Cy wynik równania jest większy od 100: " + ((15*15)>100));
+
     }
 }
+
+
