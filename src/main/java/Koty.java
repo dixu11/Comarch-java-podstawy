@@ -20,5 +20,6 @@ public class Koty {
         } else {
             System.out.println("Potrzebujesz " + iloscKuwet + " kuwety");
         }
+
     }
 }
