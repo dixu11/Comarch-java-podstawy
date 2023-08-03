@@ -9,11 +9,11 @@ public class FirstProgram {
         System.out.println("test");
 
         /*Specjalne znaki:
+
          \"
          \n
          \\
          \t
-
          */
     }
 
