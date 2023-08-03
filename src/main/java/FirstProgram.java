@@ -8,11 +8,13 @@ public class FirstProgram {
         System.out.print("...");
         System.out.println("test");
 
-        //Specjalne znaki:
-        // /"
-        // /n
-        // //
-        // /t
+        /*Specjalne znaki:
+         \"
+         \n
+         \\
+         \t
+
+         */
     }
 
 }
