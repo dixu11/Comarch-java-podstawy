@@ -10,5 +10,11 @@ public class WyrazeniaDemo {
         System.out.println(false);
         System.out.println(10 > 5);
         System.out.println('a'); //char
+        //+ - * / % - arytmetyczne - sprowadzane do int/double
+        //== != > >= < <= logiczne - sprowadzane do boolean (true/false)
+        //&& || - logiczne lub i oraz (and/or)
+        System.out.println(10 > 5 && 10 > 100); // oraz
+        System.out.println(10 > 5 || 10 > 100); // lub
+
     }
 }
