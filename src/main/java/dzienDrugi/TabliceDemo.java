@@ -5,8 +5,13 @@ import java.util.Random;
 public class TabliceDemo {
 
     public static void main(String[] args) {
+
+
         int liczba = 10;
         int[] liczby = new int[10];
+        int[] liczby2 = {34, 45, 23, 45, 67};
+//        int[] liczby2 = new int[]{34,45,23,45,67};
+
         //przy tym sposobie inicjalizacji tablicy wszystkie wartości ustawiają się na domyślne:
         //dla liczb 0, dla obiektów null, dla boolean false
         liczby[1] = 123;
@@ -26,7 +31,7 @@ public class TabliceDemo {
 
         //Pętla for-each pozwala na przeglądanie zbiorów element po elemencie (nie wiemy z jakiej pozycji pochodził element
         //więc nie jesteśmy w stanie modyfikować zbioru)
-        for(int przegladana : liczby){
+        for (int przegladana : liczby) {
             System.out.println(przegladana);
             if (przegladana < 25) {
                 suma += przegladana;
