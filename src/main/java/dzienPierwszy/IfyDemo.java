@@ -1,4 +1,4 @@
-package fundamenty;
+package dzienPierwszy;
 
 public class IfyDemo {
     public static void main(String[] args) {

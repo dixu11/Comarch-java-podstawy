@@ -1,7 +1,5 @@
 package dzienDrugi;
 
-import fundamenty.RozdzielanieNaGrupy;
-
 import java.util.Scanner;
 
 public class MetodyDemo {

@@ -1,4 +1,4 @@
-package fundamenty;
+package dzienPierwszy;
 
 public class ZmienneDemo {
     public static void main(String[] args) {

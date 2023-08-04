@@ -1,4 +1,4 @@
-package fundamenty;
+package dzienPierwszy;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package fundamenty;
+package dzienPierwszy;
 
 public class Zad3 {
 

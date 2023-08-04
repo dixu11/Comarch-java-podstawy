@@ -1,4 +1,4 @@
-package fundamenty;
+package dzienPierwszy;
 
 public class WyrazeniaDemo {
     public static void main(String[] args) {
