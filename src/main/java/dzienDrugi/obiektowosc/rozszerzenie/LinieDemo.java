@@ -18,18 +18,23 @@ Przy długości 20 i  wypełnieniu "*" powinna wydrukować linię:
 
 public class LinieDemo {
     public static void main(String[] args) {
-        Linia linia1 = new Linia();
-        linia1.dlugosc = 3;
-        linia1.wypelnienie = "a";
-        Linia linia2 = new Linia();
-        linia2.dlugosc = 7;
-        linia2.wypelnienie = "-";
-        Linia linia3 = new Linia();
-        linia3.dlugosc = 10;
-        linia3.wypelnienie = "/";
+        Linia linia1 = new Linia(3, "a");
+//        linia1.dlugosc = 3;
+//        linia1.wypelnienie = "a";
+        Linia linia2 = new Linia(7,"-");
+//        linia2.dlugosc = 7;
+//        linia2.wypelnienie = "-";
+        Linia linia3 = new Linia(10,"/");
+//        linia3.dlugosc = 10;
+//        linia3.wypelnienie = "/";
+        Linia linia4 = new Linia("T");
+
 
         linia1.drukujLinie();
+        System.out.println(linia1.dlugosc);
+        System.out.println(linia1.wypelnienie);
         linia2.drukujLinie();
         linia3.drukujLinie();
+        linia4.drukujLinie();
     }
 }
