@@ -1,3 +1,5 @@
+package fundamenty;
+
 public class WyrazeniaDemo {
     public static void main(String[] args) {
         System.out.println("hello"); //String - napis

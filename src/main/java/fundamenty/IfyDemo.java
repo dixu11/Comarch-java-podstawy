@@ -1,3 +1,5 @@
+package fundamenty;
+
 public class IfyDemo {
     public static void main(String[] args) {
 

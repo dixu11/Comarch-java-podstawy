@@ -1,3 +1,4 @@
+package fundamenty;
 
 public class FirstProgram {
 

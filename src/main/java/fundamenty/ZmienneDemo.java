@@ -1,3 +1,5 @@
+package fundamenty;
+
 public class ZmienneDemo {
     public static void main(String[] args) {
         String nazwaProduktu = "Lodówka";

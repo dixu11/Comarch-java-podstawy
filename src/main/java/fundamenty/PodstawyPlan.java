@@ -1,3 +1,5 @@
+package fundamenty;
+
 public class PodstawyPlan {
     public static void main(String[] args) {
         //wyświetlanie
